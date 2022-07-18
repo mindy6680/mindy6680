@@ -22,6 +22,9 @@ As a self-motivated, solutions-oriented, and passionate individual, I have been 
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/shopify.svg"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg"></code>
 
 
