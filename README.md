@@ -1,4 +1,4 @@
-# Hi there 👋, This is Mindy Wallen!
+# Hi there 👋, I'm Mindy!
 
 <br />
 
