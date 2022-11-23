@@ -3,9 +3,9 @@
 <br />
 
 ## :book: About Me
-I’m a senior full-stack web developer with 7 years' experience.
+I’m a senior full-stack web developer with 8 years' experience.
 
-As a self-motivated, solutions-oriented, and passionate individual, I have been actively involved in implementing website using React, Next.js, Node.js, Wordpress, WooCommerce and Shopify.
+As a self-motivated, solutions-oriented, and passionate individual, I have been actively involved in implementing website using React, Next.js, Node.js, Wordpress, and WooCommerce.
 
 <img align="right" alt="GIF" src="https://github.com/mindy6680/mindy6680/blob/main/software%20giphy.gif" width="450" height="290" />
 
